@@ -6,7 +6,6 @@
 
 ## Status
 
-The manuscript is currently under review.
 
 The code, training scripts and evaluation details will be released in this repository after the paper is accepted. Please stay tuned.
 
